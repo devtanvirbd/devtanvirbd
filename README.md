@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is SEO Tanvir Bd
 #### I am a developer as well as a SEO
-![I am a developer as well as a SEO](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a developer as well as a SEO](https://github.com/devtanvirbd/devtanvirbd/blob/main/SEO-Tanvir-bd.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
